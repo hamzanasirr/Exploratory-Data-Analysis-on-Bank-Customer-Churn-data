@@ -4,4 +4,4 @@ Performed EDA on the bank's customer churn data and tried to get some insights.
 ## Steps Performed
 * Data Gathering (Picked the data set from Kaggle)
 * Data Wrangling / Cleaning
-* Exploratory Data Analysis / Discriptive Analysis
+* Exploratory Data Analysis / Descriptive Analysis
